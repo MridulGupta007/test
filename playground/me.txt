@@ -1,5 +1,0 @@
-{{#user}}
-Name: Mridul Gupta
-Skills: HTML, CSS, JS, React.Js, Tailwind CSS, Material UI, Typescript, Python, Next.js
-Email: mridulgupta2003official@gmail.com
-{{/user}}
